@@ -1,0 +1,13 @@
+{
+	"file": "https://raw.githubusercontent.com/HSapers/upset_data/5a7fd87b687db3894af9ce7a24e165e82e7167c9/q2_2020_11/ASV_source_and_crush_deployment_binary_t.csv",
+	"name": "SURF source and enrichments by deployment",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": " " },
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 108 }
+	]
+}
